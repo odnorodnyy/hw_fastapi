@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 import requests
 
-API_URL = "..."
+API_URL = "https://hw-fastapi-32mp.onrender.com"
 st.title("Менеджер задач")
 st.text("Дополнение к домашней работе по FastAPI.\n"
         "Создал простенькую страничку для \"клиента\" и более удобной демостранции функционала")
