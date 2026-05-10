@@ -1,3 +1,6 @@
+tasks.db
+test.db
+.coverage
 .venv/
 .idea/
 __pycache__/

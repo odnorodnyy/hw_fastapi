@@ -37,5 +37,4 @@ class TaskResponse(BaseModel):
     status: TaskStatus
     priority: int
     created: datetime
-
     model_config = {"from_attributes": True}    # чтобы читать SQLAlchemy-объекты
