@@ -4,3 +4,7 @@ sqlalchemy
 pydantic
 requests
 streamlit
+pytest
+httpx
+pytest-cov
+locust
